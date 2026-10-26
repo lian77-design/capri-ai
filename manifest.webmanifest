@@ -1,0 +1,1 @@
+{"name": "CAPRI AI", "short_name": "CAPRI", "start_url": "./", "display": "standalone", "background_color": "#08040e", "theme_color": "#10051e", "icons": [{"src": "icon.png", "sizes": "192x192", "type": "image/png"}]}

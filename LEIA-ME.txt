@@ -1,0 +1,8 @@
+CAPRI AI 3.0 — gratuita para iPhone
+
+1. Publique TODOS os arquivos juntos em hospedagem HTTPS gratuita.
+2. Abra o endereço publicado no Safari > Compartilhar > Adicionar à Tela de Início.
+3. Para chamar: Atalhos > + > Abrir URLs > cole o endereço HTTPS > nomeie Capri. Diga "E aí Siri, Capri".
+
+Inclui: animação reativa, seleção de voz do sistema, comandos simples, memória local.
+Limites: não há IA generativa, animação facial real ou avatar sobre outros apps. O reconhecimento de fala pode não estar disponível no Safari; use ditado do teclado. Algumas vozes variam conforme o iOS. Links abrem sites e podem redirecionar para apps.
